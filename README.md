@@ -2,7 +2,6 @@
 
 ✨ *Mahasiswa Sistem Informasi | Tech Enthusiast | Future Digital Innovator*  
 
-![Anime Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVqZHB2d3E4aG9mZ2VtY2o4NnJrZ3E1Z3J0cGx5ZXRyZHR2c3R6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
@@ -35,7 +34,7 @@
 - 📊 Data Analysis & Mining  
 - 🔗 API Integration (REST & GraphQL)  
 
-![Learning Anime](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
 
 ---
 
@@ -46,11 +45,9 @@
 ---
 
 ## 🌐 Let's Connect
-- 📧 Email: `emailkamu@email.com`
-- 💼 LinkedIn: `linkedin.com/in/usernamekamu`
-- 🌍 Portfolio: `coming soon...`
-
-![Anime Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZlNnN1ZzNwbTRjNGZqMWR2N2h4Z3h4cXc0b2tqOWx1M2Z0Z3N1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif)
+- 📧 Email: `Coming Soon..`
+- 💼 LinkedIn: `coming soon..`
+- 🌍 Portfolio: `coming soon..`
 
 ---
 
