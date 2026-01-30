@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1d35e11-470c-40ae-8b67-21d34f99a7ec" /># 👋 Hi, I'm Aditya Wahyu Hidayatullah!
+<img width="1366" height="768" alt="image" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /># 👋 Hi, I'm Aditya Wahyu Hidayatullah!
 
 ✨ *Mahasiswa Sistem Informasi | Tech Enthusiast | Future Digital Innovator*  
 
