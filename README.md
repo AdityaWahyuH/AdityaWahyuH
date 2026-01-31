@@ -12,8 +12,7 @@
 - 💻 **Minat:**  
   - Web Development  
   - Data & Information Systems  
-  - UI/UX  
-  - Software Integration  
+  
 
 ---
 
