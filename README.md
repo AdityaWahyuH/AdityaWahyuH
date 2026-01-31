@@ -15,8 +15,6 @@
   - UI/UX  
   - Software Integration  
 
-> *“Belajar teknologi bukan sekadar ngoding, tapi memahami solusi.”*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -30,7 +28,7 @@
 ---
 
 ## 🚀 Currently Learning
-- 🌐 Full Stack Web Development  
+- 🌐 ??? 
 - 📊 Data Analysis & Mining  
 - 🔗 API Integration (REST & GraphQL)  
 
