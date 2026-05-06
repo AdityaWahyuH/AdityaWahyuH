@@ -12,4 +12,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AdityaWahyuH&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<img src="https://media.tenor.com/5Q5Z7JgXrQAAAAAC/black-clover-rakugaki-page.gif" width="300"/>
+<img src="[https://media.tenor.com/5Q5Z7JgXrQAAAAAC/black-clover-rakugaki-page.gif](https://tenor.com/id/view/black-clover-rakugaki-page-rakugaki-peiji-asta-gif-25351949)" width="300"/>
