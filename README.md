@@ -12,4 +12,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AdityaWahyuH&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://tenor.com/id/view/black-clover-rakugaki-page-rakugaki-peiji-asta-gif-25351949
+
