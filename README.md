@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://media.tenor.com/3itK3d6vXJAAAAAC/black-clover-rakugaki-page.gif" width="500"/>
+  <img src="https://media.tenor.com/3itK3d6vXJAAAAAC/black-clover-rakugaki-page.gif" width="700"/>
 </div>
 
-# 🌐 Socials:
+<br>
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ad1ty4wh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-wahyu-h-9a6047314/)
 
@@ -28,12 +30,19 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaWahyuH&theme=tokyonight&hide_border=false)
+![](https://streak-stats.demolab.com/?user=AdityaWahyuH&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWahyuH&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdityaWahyuH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaWahyuH&icon=0&color=13&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaWahyuH&icon=0&color=13&style=for-the-badge"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.tenor.com/FPptL6nSSbAAAAAC/anime-night.gif" width="400"/>
+  <img src="https://media.tenor.com/eY8rH4K0M1YAAAAC/anime.gif" width="400"/>
 </div>
