@@ -34,15 +34,4 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdityaWahyuH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaWahyuH&icon=0&color=13&style=for-the-badge"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.tenor.com/FPptL6nSSbAAAAAC/anime-night.gif" width="400"/>
-  <img src="https://media.tenor.com/eY8rH4K0M1YAAAAC/anime.gif" width="400"/>
-</div>
+--
