@@ -33,4 +33,4 @@
 ![](https://streak-stats.demolab.com/?user=AdityaWahyuH&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdityaWahyuH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div class="tenor-gif-embed" data-postid="25351949" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/black-clover-rakugaki-page-rakugaki-peiji-asta-gif-25351949">Black Clover Rakugaki Page GIF</a>from <a href="https://tenor.com/search/black+clover-gifs">Black Clover GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
